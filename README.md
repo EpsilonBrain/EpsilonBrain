@@ -1,0 +1,4 @@
+-I like math
+-I like solving difficult problems
+-I like solving difficult problems with math
+-I like learning new languages (both spoken and code)
