@@ -8,6 +8,14 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
+# Skills
+- Problem Solving
+- Mathematical Logic and Reasoning
+- Spring Boot
+- PostgresSQL
+- AWS
+- DynamoDB
+
 ## LinkedIn
 <a href = "https://www.linkedin.com/in/pablo-rodriguez123">
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
